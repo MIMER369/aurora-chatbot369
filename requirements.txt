@@ -1,0 +1,14 @@
+# AURORA E-Commerce Chatbot - Requirements for Deployment
+# Copy this content to requirements.txt when deploying to other platforms
+
+Flask==3.1.1
+Flask-SQLAlchemy==3.1.1
+gunicorn==23.0.0
+nltk==3.9.1
+scikit-learn==1.6.1
+numpy==2.2.6
+openai==1.82.0
+requests==2.32.3
+psycopg2-binary==2.9.10
+email-validator==2.2.0
+streamlit==1.45.1

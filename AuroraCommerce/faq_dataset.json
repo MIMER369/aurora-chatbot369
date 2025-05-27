@@ -1,0 +1,765 @@
+{
+  "categories": ["Account", "Payments", "Products", "Returns", "Shipping"],
+  "faqs": [
+    {
+      "question": "How do I create an account?",
+      "answer": "To create an account, click 'Sign Up' on our homepage. Fill in your email, create a password, and verify your email address. You'll receive a confirmation email to activate your account.",
+      "category": "Account"
+    },
+    {
+      "question": "I forgot my password, how can I reset it?",
+      "answer": "Click 'Forgot Password' on the login page, enter your email address, and we'll send you a password reset link. Follow the instructions in the email to create a new password.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I update my account information?",
+      "answer": "Log into your account and go to 'Account Settings'. You can update your personal information, shipping addresses, and contact details there.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I change my email address?",
+      "answer": "Yes, go to Account Settings and update your email address. You'll need to verify the new email before the change takes effect.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I delete my account?",
+      "answer": "To delete your account, contact our customer service team. Please note that this action is permanent and cannot be undone.",
+      "category": "Account"
+    },
+    {
+      "question": "Why can't I log into my account?",
+      "answer": "Check that your email and password are correct. If you're still having trouble, try resetting your password or contact customer support.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I view my order history?",
+      "answer": "Log into your account and click on 'Order History' to view all your past purchases, tracking information, and order details.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I have multiple shipping addresses?",
+      "answer": "Yes, you can add and manage multiple shipping addresses in your Account Settings under 'Address Book'.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I change my notification preferences?",
+      "answer": "Go to Account Settings and select 'Notifications' to customize your email and SMS preferences for orders, promotions, and updates.",
+      "category": "Account"
+    },
+    {
+      "question": "What should I do if my account is locked?",
+      "answer": "If your account is locked due to security reasons, contact customer support with your account details for assistance in unlocking it.",
+      "category": "Account"
+    },
+    {
+      "question": "How can I update my phone number?",
+      "answer": "Log into your account, go to Account Settings, and update your phone number in the contact information section.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I merge two accounts?",
+      "answer": "Contact customer service to help merge accounts. Provide details for both accounts to ensure a smooth merge process.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I enable two-factor authentication?",
+      "answer": "Go to Account Settings, select 'Security', and enable two-factor authentication for added account protection.",
+      "category": "Account"
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, and bank transfers.",
+      "category": "Payments"
+    },
+    {
+      "question": "Is it safe to use my credit card on your website?",
+      "answer": "Yes, we use SSL encryption and comply with PCI DSS standards to ensure your payment information is secure and protected.",
+      "category": "Payments"
+    },
+    {
+      "question": "Why was my payment declined?",
+      "answer": "Payment can be declined due to insufficient funds, incorrect card details, or bank security measures. Contact your bank or try a different payment method.",
+      "category": "Payments"
+    },
+    {
+      "question": "Can I save my payment information for future purchases?",
+      "answer": "Yes, you can securely save your payment methods in your account for faster checkout. We use encrypted storage for your security.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I remove a saved payment method?",
+      "answer": "Go to Account Settings, select 'Payment Methods', and click 'Remove' next to the payment method you want to delete.",
+      "category": "Payments"
+    },
+    {
+      "question": "Do you offer payment plans or financing?",
+      "answer": "We offer payment plans through select partners like Klarna and Afterpay for eligible purchases. Options appear at checkout.",
+      "category": "Payments"
+    },
+    {
+      "question": "When will I be charged for my order?",
+      "answer": "Your payment method is charged when your order is confirmed and processed, typically within 24 hours of placing the order.",
+      "category": "Payments"
+    },
+    {
+      "question": "Can I split my payment between multiple cards?",
+      "answer": "Currently, we don't support splitting payments between multiple cards. You can use one primary payment method per order.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I update my billing address?",
+      "answer": "Go to Account Settings, select 'Payment Methods', and update the billing address associated with your payment method.",
+      "category": "Payments"
+    },
+    {
+      "question": "What should I do if I see an unauthorized charge?",
+      "answer": "Contact customer service immediately if you see unauthorized charges. We'll investigate and help resolve any payment disputes.",
+      "category": "Payments"
+    },
+    {
+      "question": "Do you accept international payments?",
+      "answer": "Yes, we accept international credit cards and PayPal. Additional fees may apply based on your bank and currency conversion.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I get a receipt for my purchase?",
+      "answer": "Receipts are automatically emailed after purchase. You can also find them in your Account Order History section.",
+      "category": "Payments"
+    },
+    {
+      "question": "Can I change my payment method after placing an order?",
+      "answer": "If your order hasn't been processed yet, contact customer service immediately to update your payment method.",
+      "category": "Payments"
+    },
+    {
+      "question": "Do you store my credit card information?",
+      "answer": "We only store encrypted payment tokens, never actual credit card numbers. You can choose to save payment methods for convenience.",
+      "category": "Payments"
+    },
+    {
+      "question": "What currencies do you accept?",
+      "answer": "We primarily accept USD, but also support EUR, GBP, CAD, and AUD. Currency options appear based on your location.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I search for products?",
+      "answer": "Use the search bar at the top of the page. You can search by product name, brand, category, or keywords. Use filters to narrow down results.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I compare products?",
+      "answer": "Select the 'Compare' option on product pages to add items to comparison. View detailed side-by-side comparisons of features and specifications.",
+      "category": "Products"
+    },
+    {
+      "question": "Are product reviews authentic?",
+      "answer": "Yes, we only allow verified purchase reviews. Customers must have bought the product to leave a review, ensuring authenticity.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I know if a product is in stock?",
+      "answer": "Stock status is displayed on each product page. You can also set up notifications to be alerted when out-of-stock items become available.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I get product recommendations?",
+      "answer": "Yes, we provide personalized recommendations based on your browsing history, purchases, and similar customer preferences.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I find product specifications?",
+      "answer": "Detailed specifications are available on each product page under the 'Specifications' tab, including dimensions, materials, and technical details.",
+      "category": "Products"
+    },
+    {
+      "question": "Do you offer product warranties?",
+      "answer": "Most products come with manufacturer warranties. Warranty information is listed on the product page and included with your purchase.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I check product availability in my area?",
+      "answer": "Enter your zip code on the product page to check local availability and delivery options specific to your location.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I request a product that's not listed?",
+      "answer": "Contact customer service with product details. We'll check if we can source it or add it to our catalog based on demand.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I save products for later?",
+      "answer": "Click the 'Save for Later' or heart icon on any product to add it to your wishlist. Access saved items from your account.",
+      "category": "Products"
+    },
+    {
+      "question": "Are there bulk pricing options?",
+      "answer": "Yes, we offer volume discounts for bulk orders. Contact our sales team for custom pricing on large quantity purchases.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I know about new product arrivals?",
+      "answer": "Subscribe to our newsletter or follow our social media for new arrival notifications. You can also set up category alerts.",
+      "category": "Products"
+    },
+    {
+      "question": "Do you offer product samples?",
+      "answer": "Sample availability varies by product. Check the product page or contact customer service to inquire about samples for specific items.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I report a product quality issue?",
+      "answer": "Contact customer service with your order number and details about the quality issue. We'll investigate and provide appropriate resolution.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I customize or personalize products?",
+      "answer": "Some products offer customization options. Look for 'Customize' or 'Personalize' buttons on eligible product pages.",
+      "category": "Products"
+    },
+    {
+      "question": "How do product ratings work?",
+      "answer": "Products are rated 1-5 stars based on verified customer reviews. The overall rating reflects the average of all customer ratings.",
+      "category": "Products"
+    },
+    {
+      "question": "Are there eco-friendly product options?",
+      "answer": "Yes, we have a dedicated eco-friendly section. Look for the green leaf icon or filter by 'Sustainable' in product categories.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I check if products are compatible?",
+      "answer": "Compatibility information is listed in product descriptions. Use our compatibility checker tool or contact support for specific questions.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I see products in different colors/sizes?",
+      "answer": "Yes, select different options using the color/size dropdown menus on product pages to see variations and availability.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I return an item?",
+      "answer": "Go to your Order History, select the item you want to return, and follow the return process. Print the prepaid return label and ship the item back.",
+      "category": "Returns"
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We accept returns within 30 days of delivery. Items must be unused, in original packaging, and in resalable condition.",
+      "category": "Returns"
+    },
+    {
+      "question": "Do I need to pay for return shipping?",
+      "answer": "Return shipping is free for defective items or our errors. For other returns, a small return shipping fee may apply depending on the reason.",
+      "category": "Returns"
+    },
+    {
+      "question": "How long does it take to process a return?",
+      "answer": "Returns are typically processed within 3-5 business days after we receive the item. You'll receive an email confirmation once processed.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I return items without original packaging?",
+      "answer": "Items should be returned in original packaging when possible. Contact customer service for specific guidance on items without packaging.",
+      "category": "Returns"
+    },
+    {
+      "question": "What items cannot be returned?",
+      "answer": "Personalized items, perishables, intimate apparel, and certain electronics cannot be returned for hygiene and safety reasons.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I track my return?",
+      "answer": "Use the tracking number provided with your return label. You can also check return status in your Order History section.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I exchange an item instead of returning it?",
+      "answer": "Yes, you can exchange items for different sizes or colors. Select 'Exchange' instead of 'Return' when initiating the return process.",
+      "category": "Returns"
+    },
+    {
+      "question": "What if I received the wrong item?",
+      "answer": "Contact customer service immediately. We'll provide a prepaid return label and expedite shipping of the correct item at no charge.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I return a gift?",
+      "answer": "Gift returns can be processed with the order number or gift receipt. The refund will be issued as store credit if no payment method is available.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I return sale items?",
+      "answer": "Sale items can typically be returned following our standard return policy, unless marked as 'Final Sale' at the time of purchase.",
+      "category": "Returns"
+    },
+    {
+      "question": "What happens if I miss the return deadline?",
+      "answer": "Contact customer service if you miss the 30-day deadline. We may make exceptions for special circumstances on a case-by-case basis.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I return multiple items from one order?",
+      "answer": "You can return individual items or the entire order. Each item has its own return option in your Order History section.",
+      "category": "Returns"
+    },
+    {
+      "question": "Will I get a full refund for returned items?",
+      "answer": "Yes, you'll receive a full refund for items returned in original condition within the return period, minus any return shipping fees if applicable.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I return items bought with a discount code?",
+      "answer": "Yes, items purchased with discount codes can be returned. The refund amount will reflect the actual amount paid after the discount.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I return an item that was damaged during shipping?",
+      "answer": "Contact customer service immediately with photos of the damage. We'll provide a prepaid return label and expedite a replacement.",
+      "category": "Returns"
+    },
+    {
+      "question": "What shipping options do you offer?",
+      "answer": "We offer standard shipping (5-7 business days), expedited shipping (2-3 business days), and overnight shipping for most locations.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How much does shipping cost?",
+      "answer": "Shipping costs vary by location and method. Standard shipping is free on orders over $50. See checkout for exact costs.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 100 countries. International shipping costs and delivery times vary by destination. Customs fees may apply.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You'll receive a tracking number via email once your order ships. Use this number on our tracking page or the carrier's website.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I change my shipping address after ordering?",
+      "answer": "Contact customer service immediately if you need to change your shipping address. Changes may not be possible if the order has already shipped.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What if I'm not home when my package arrives?",
+      "answer": "Delivery attempts vary by carrier. You may receive a delivery notice with options to reschedule or pick up at a local facility.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you offer same-day delivery?",
+      "answer": "Same-day delivery is available in select metropolitan areas for orders placed before 2 PM. Check availability at checkout.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How are shipping costs calculated?",
+      "answer": "Shipping costs are based on package weight, dimensions, destination, and selected shipping speed. Exact costs are shown at checkout.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I ship to a PO Box?",
+      "answer": "Yes, we can ship to PO Boxes using USPS. Some expedited services may not be available for PO Box addresses.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What packaging do you use?",
+      "answer": "We use eco-friendly packaging materials and right-size boxes to minimize waste while ensuring your items arrive safely.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I schedule a specific delivery time?",
+      "answer": "Delivery time scheduling depends on the carrier and location. Some premium shipping options offer delivery time windows.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What happens if my package is lost?",
+      "answer": "Contact customer service if your package is lost. We'll investigate with the carrier and provide a replacement or refund as needed.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you ship to military addresses (APO/FPO)?",
+      "answer": "Yes, we ship to APO/FPO addresses using USPS. Delivery times may be longer, and some restrictions may apply.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I pick up my order instead of having it shipped?",
+      "answer": "Local pickup may be available depending on your location. Check for pickup options during checkout or contact customer service.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What if my package is damaged during shipping?",
+      "answer": "Inspect packages upon delivery and report damage immediately. Contact customer service with photos for a quick replacement or refund.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How do I know what shipping method to choose?",
+      "answer": "Consider your budget and urgency. Standard shipping is economical, expedited for faster delivery, and overnight for urgent needs.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I combine multiple orders for shipping?",
+      "answer": "Orders placed separately cannot be combined for shipping. To avoid multiple shipments, add all items to your cart before checkout.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you provide shipping insurance?",
+      "answer": "All shipments include basic coverage. Additional insurance is available for high-value items during checkout for extra protection.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What are your shipping cut-off times?",
+      "answer": "Orders placed before 2 PM (EST) on business days typically ship the same day. Weekend and holiday orders ship the next business day.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I ship items as gifts?",
+      "answer": "Yes, select 'This is a gift' during checkout to add gift wrapping and a personal message. The recipient won't see pricing information.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How do I contact customer service?",
+      "answer": "You can reach customer service via live chat, email at support@aurora.com, or phone at 1-800-AURORA. We're available 24/7 to help.",
+      "category": "Account"
+    },
+    {
+      "question": "What are your customer service hours?",
+      "answer": "Our customer service team is available 24/7 through live chat and email. Phone support is available Monday-Friday 8 AM to 8 PM EST.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I subscribe to your newsletter?",
+      "answer": "Enter your email in the newsletter signup at the bottom of our homepage or during checkout to receive exclusive offers and updates.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I use multiple discount codes on one order?",
+      "answer": "Typically, only one discount code can be used per order. The system will automatically apply the best available discount for you.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I apply a gift card to my order?",
+      "answer": "Enter your gift card code in the 'Gift Card' field during checkout. The balance will be applied to your order total.",
+      "category": "Payments"
+    },
+    {
+      "question": "Do you price match with competitors?",
+      "answer": "We offer price matching on identical items from authorized retailers. Contact customer service with the competitor's price for verification.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I leave a product review?",
+      "answer": "Go to the product page of items you've purchased and click 'Write a Review'. You must have purchased the item to leave a verified review.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I cancel my order?",
+      "answer": "Orders can be cancelled if they haven't been processed yet. Contact customer service immediately to request cancellation.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I check my gift card balance?",
+      "answer": "Enter your gift card number on our gift card balance page or call customer service to check your remaining balance.",
+      "category": "Payments"
+    },
+    {
+      "question": "Do you offer loyalty rewards?",
+      "answer": "Yes, join our Aurora Rewards program to earn points on purchases, get exclusive offers, and enjoy member-only benefits.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I unsubscribe from emails?",
+      "answer": "Click 'Unsubscribe' at the bottom of any marketing email, or manage your email preferences in your Account Settings.",
+      "category": "Account"
+    },
+    {
+      "question": "What is your privacy policy?",
+      "answer": "Our privacy policy outlines how we collect, use, and protect your information. You can find it linked at the bottom of our homepage.",
+      "category": "Account"
+    },
+    {
+      "question": "Do you have a mobile app?",
+      "answer": "Yes, download the Aurora app from the App Store or Google Play for convenient shopping, order tracking, and exclusive mobile offers.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I report a website issue?",
+      "answer": "If you encounter technical issues on our website, please contact customer service with details about the problem and your browser information.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I place an order over the phone?",
+      "answer": "Yes, our customer service team can help you place orders over the phone during business hours at 1-800-AURORA.",
+      "category": "Account"
+    },
+    {
+      "question": "What payment methods are accepted for international orders?",
+      "answer": "International orders can be paid with major credit cards and PayPal. Local payment methods may be available depending on your country.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I know if an item is on backorder?",
+      "answer": "Backorder status is shown on the product page. You'll be notified of expected shipping dates for backordered items.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I modify my order after it's placed?",
+      "answer": "Contact customer service immediately to modify your order. Changes may not be possible if the order is already being processed.",
+      "category": "Account"
+    },
+    {
+      "question": "Do you offer installation services?",
+      "answer": "Installation services are available for select products. Check the product page or contact customer service for installation options in your area.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I find products on sale?",
+      "answer": "Visit our 'Sale' section or use the 'On Sale' filter when browsing categories to find discounted items and special offers.",
+      "category": "Products"
+    },
+    {
+      "question": "What should I do if an item I want is out of stock?",
+      "answer": "Click 'Notify Me' on the product page to receive an email alert when the item is back in stock. We'll notify you as soon as it's available.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I return an item after the 30-day period?",
+      "answer": "Standard returns are within 30 days. Contact customer service for special circumstances - we may make exceptions on a case-by-case basis.",
+      "category": "Returns"
+    },
+    {
+      "question": "Do you offer expedited returns processing?",
+      "answer": "Standard return processing is 3-5 business days. For urgent situations, contact customer service about expedited processing options.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I return items to a physical store?",
+      "answer": "If you're near one of our physical locations, you may be able to return items in-store. Contact the store directly to confirm their return policy.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I print a return label?",
+      "answer": "After initiating a return in your Order History, you'll receive an email with a prepaid return label to print and attach to your package.",
+      "category": "Returns"
+    },
+    {
+      "question": "What if the return label doesn't print correctly?",
+      "answer": "Contact customer service if you have trouble printing your return label. We can email you a new label or provide alternative return instructions.",
+      "category": "Returns"
+    },
+    {
+      "question": "Do you ship on weekends?",
+      "answer": "We process orders Monday through Friday. Weekend orders are processed on the next business day. Some carriers offer weekend delivery for expedited orders.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I ship different items to different addresses?",
+      "answer": "Yes, you can specify different shipping addresses for items during checkout. Each address may have separate shipping charges.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What happens during shipping delays?",
+      "answer": "We'll notify you of any significant shipping delays. You can also track your package for real-time updates on delivery status.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you use signature confirmation?",
+      "answer": "Signature confirmation is used for high-value orders and can be requested for additional security. Check your shipping options at checkout.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I leave delivery instructions?",
+      "answer": "Yes, you can add special delivery instructions during checkout. Note that following instructions depends on the carrier and delivery circumstances.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How long do you hold packages at pickup locations?",
+      "answer": "Package hold times vary by carrier and location, typically 5-7 days. Check with the specific pickup location for their policy.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What if my shipping address doesn't exist in your system?",
+      "answer": "If your address isn't recognized, try entering it differently or contact customer service. We can manually verify and add addresses as needed.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Do you offer white glove delivery?",
+      "answer": "White glove delivery service is available for large items and furniture. This includes indoor delivery, unpacking, and assembly if needed.",
+      "category": "Shipping"
+    },
+    {
+      "question": "Can I track multiple orders at once?",
+      "answer": "Yes, your Order History page shows tracking information for all your orders. You can also set up tracking notifications for multiple packages.",
+      "category": "Shipping"
+    },
+    {
+      "question": "What is the maximum package weight you ship?",
+      "answer": "We can ship packages up to 150 lbs through standard carriers. Heavier items may require freight shipping with special arrangements.",
+      "category": "Shipping"
+    },
+    {
+      "question": "How do I get a refund?",
+      "answer": "Refunds are processed automatically when we receive and approve your returned item. Refunds typically appear in 5-7 business days.",
+      "category": "Returns"
+    },
+    {
+      "question": "Can I get store credit instead of a refund?",
+      "answer": "Yes, you can choose store credit instead of a refund during the return process. Store credit never expires and can be used on future purchases.",
+      "category": "Returns"
+    },
+    {
+      "question": "What if I received a defective product?",
+      "answer": "Contact customer service immediately with details about the defect. We'll provide a prepaid return label and expedite a replacement.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I check if my payment went through?",
+      "answer": "You'll receive an order confirmation email if payment was successful. You can also check your Order History or contact customer service.",
+      "category": "Payments"
+    },
+    {
+      "question": "What happens if my payment fails during checkout?",
+      "answer": "If payment fails, you'll be notified immediately. Try a different payment method or contact your bank if the issue persists.",
+      "category": "Payments"
+    },
+    {
+      "question": "Can I pay with cryptocurrency?",
+      "answer": "Currently, we don't accept cryptocurrency payments. We accept credit cards, PayPal, and other traditional payment methods.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I dispute a charge?",
+      "answer": "First, contact our customer service to resolve any billing issues. If needed, you can also dispute charges directly with your credit card company.",
+      "category": "Payments"
+    },
+    {
+      "question": "Can I set up automatic payments for subscriptions?",
+      "answer": "Yes, subscription products can be set up with automatic payments. Manage your subscription settings in your account dashboard.",
+      "category": "Payments"
+    },
+    {
+      "question": "How do I add a new payment method?",
+      "answer": "Go to Account Settings, select 'Payment Methods', and click 'Add New Payment Method' to securely add a credit card or other payment option.",
+      "category": "Payments"
+    },
+    {
+      "question": "What is your return policy for electronics?",
+      "answer": "Electronics can be returned within 30 days if unopened, or 15 days if opened, in original condition with all accessories and packaging.",
+      "category": "Returns"
+    },
+    {
+      "question": "Do you test returned electronics?",
+      "answer": "Yes, all returned electronics are tested for functionality and condition before being restocked or determining refund eligibility.",
+      "category": "Returns"
+    },
+    {
+      "question": "How do I set up product alerts?",
+      "answer": "On any product page, click 'Set Alert' to receive notifications about price drops, back-in-stock alerts, or new product announcements.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I see a size chart for clothing items?",
+      "answer": "Yes, clothing items have size charts available on the product page. Click 'Size Chart' or 'Sizing Guide' for detailed measurements.",
+      "category": "Products"
+    },
+    {
+      "question": "How accurate are the product photos?",
+      "answer": "Our product photos are professionally taken to accurately represent items. Colors may vary slightly depending on your device's display settings.",
+      "category": "Products"
+    },
+    {
+      "question": "Do you offer virtual try-on or AR features?",
+      "answer": "Select products offer augmented reality features. Look for the 'AR View' or 'Virtual Try-On' buttons on compatible product pages.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I find assembly instructions?",
+      "answer": "Assembly instructions are included with products that require assembly. You can also find digital instructions on the product page or our support section.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I see what accessories are compatible with a product?",
+      "answer": "Compatible accessories are listed on product pages under 'Accessories' or 'You May Also Need' sections.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I know if a product is environmentally friendly?",
+      "answer": "Eco-friendly products are marked with green certification badges. Check the product description for environmental impact and sustainability information.",
+      "category": "Products"
+    },
+    {
+      "question": "Do you offer product bundles or packages?",
+      "answer": "Yes, we offer curated bundles and product packages at discounted prices. Look for 'Bundle' options on product pages or browse our bundle section.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I find the newest products?",
+      "answer": "Visit our 'New Arrivals' section or sort any category by 'Newest' to see the latest products we've added to our catalog.",
+      "category": "Products"
+    },
+    {
+      "question": "Can I get expert advice on product selection?",
+      "answer": "Yes, our product specialists are available via chat or phone to help you choose the right product for your needs and budget.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I care for my products?",
+      "answer": "Care instructions are provided with products and available on product pages. Our customer service team can also provide specific care guidance.",
+      "category": "Products"
+    },
+    {
+      "question": "Do you offer professional installation?",
+      "answer": "Professional installation is available for select products. Check the product page or contact customer service to arrange installation in your area.",
+      "category": "Products"
+    },
+    {
+      "question": "How do I join your affiliate program?",
+      "answer": "Visit our affiliate program page to learn about partnership opportunities and apply to promote our products for commission.",
+      "category": "Account"
+    },
+    {
+      "question": "Do you have a referral program?",
+      "answer": "Yes, refer friends and earn rewards! Check your account dashboard for your unique referral link and current referral bonuses.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I provide feedback about your service?",
+      "answer": "We value your feedback! Contact customer service, leave reviews, or use the feedback form on our website to share your experience.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I request a catalog?",
+      "answer": "Digital catalogs are available for download on our website. Contact customer service if you prefer a printed catalog mailed to you.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I follow you on social media?",
+      "answer": "Follow us on Instagram, Facebook, Twitter, and YouTube for the latest updates, product launches, and exclusive social media offers.",
+      "category": "Account"
+    },
+    {
+      "question": "Do you have a student discount?",
+      "answer": "Yes, we offer student discounts with valid student ID verification. Sign up for our student program to access exclusive discounts.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I become a VIP member?",
+      "answer": "VIP membership is earned through purchase history and loyalty. High-value customers are automatically invited to join our VIP program.",
+      "category": "Account"
+    },
+    {
+      "question": "What benefits do VIP members get?",
+      "answer": "VIP members enjoy early access to sales, exclusive products, free expedited shipping, and dedicated customer service support.",
+      "category": "Account"
+    },
+    {
+      "question": "How do I update my communication preferences?",
+      "answer": "Go to Account Settings and select 'Communication Preferences' to choose how and when you want to receive updates from us.",
+      "category": "Account"
+    },
+    {
+      "question": "Can I schedule customer service calls?",
+      "answer": "Yes, you can schedule a callback from customer service at a convenient time. Use the 'Schedule Call' option on our contact page.",
+      "category": "Account"
+    }
+  ]
+}
